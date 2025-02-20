@@ -1,4 +1,4 @@
-```markdown
+
 # MarketingOptimizer-AI Case Study
 
 ## Overview
@@ -140,4 +140,4 @@ GREETING PROTOCOL:
 ## Conclusion
 
 MarketingOptimizer-AI is a robust, user-friendly tool that automates the evaluation of social media campaigns by validating input data, performing detailed performance calculations, and offering clear budget recommendations. Its design ensures that even non-technical users can understand every step of the process through clear language and illustrative LaTeX formulas. The varied test flows demonstrate the system's capability to handle different user scenarios—from urgent analysis to error correction—while continuously improving based on user feedback. This case study exemplifies how automation can simplify complex marketing decisions, ultimately leading to smarter and more effective ad spend strategies.
-```
+
